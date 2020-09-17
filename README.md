@@ -1,14 +1,14 @@
 # ml-project
 
-danceability
-energy
-key
-loudness
-mode
-speechiness
-acousticness
-instrumentalness
-liveness
-valence
-tempo
-Label
+| danceability     |   |   |
+|------------------|---|---|
+| energy           |   |   |
+| key              |   |   |
+| loudness         |   |   |
+| mode             |   |   |
+| speechiness      |   |   |
+| acousticness     |   |   |
+| instrumentalness |   |   |
+| liveness         |   |   |
+| valence          |   |   |
+| tempo            |   |   |
