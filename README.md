@@ -1,7 +1,7 @@
 # ml-project
 
-| danceability     |   |   |
 |------------------|---|---|
+| danceability     |   |   |
 | energy           |   |   |
 | key              |   |   |
 | loudness         |   |   |
