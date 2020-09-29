@@ -8,7 +8,10 @@ Notebook som inehåller grundlig analys för 4 modeller:
 - K nearest neighbors
 
 ## projekt.ipynb
-Notebook som inehåller lite grejer
+Notebook som följer samma analys som från en övning.
+
+## data_visualisering.ipynb
+Här visas datat på olika sätt. Ger en uppfattning om datat.
 
 ## vad ska vi göra?
 - Ska vi göra en djup analys av vilka regressorer som hänger med i modellen? (feature selection)
