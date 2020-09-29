@@ -7,6 +7,8 @@ Notebook som inehåller grundlig analys för 4 modeller:
 - Decision Tree
 - K nearest neighbors
 
+Vad som kan göras är: optimera valet av C för SVM, genom CV eller ROC. Få ut en confusion-matrix kanske
+
 ## projekt.ipynb
 Notebook som följer samma analys som från en övning.
 
