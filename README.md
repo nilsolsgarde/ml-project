@@ -6,6 +6,12 @@ Notebook som inehåller grundlig analys för 4 modeller:
 - Gaussian Naive Bayes
 - Decision Tree
 - K nearest neighbors
+- Random forest Classifier
+- Multi-layer Perceptron
+- LDA
+- QDA
+- Support vector machine (SVC)
+- Bagging
 
 Vad som kan göras är: optimera valet av C för SVM, genom CV eller ROC. Få ut en confusion-matrix kanske
 
